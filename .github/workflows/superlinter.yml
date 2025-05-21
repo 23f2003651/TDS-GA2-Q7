@@ -1,6 +1,6 @@
-name: git-action
+name: Super-Linter
 
-on: watch
+on: push
 
 jobs:
   super-lint:
